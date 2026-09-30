@@ -1,4 +1,4 @@
-# ![Fast/React CRUD App Group Project - Group Project Individual Contributor Requirements](./assets/hero.png)
+# Capstone Group Project - Group Project Individual Contributor Requirements
 
 ## Individual contributor requirements
 
