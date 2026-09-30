@@ -1,10 +1,10 @@
-# ![Fast/React CRUD App Group Project - Project Requirements](./assets/hero.png)
+# Capstone Group Project - Project Requirements
 
 ## Overview
 
 For this project, you'll work across the back-end and the front-end to build a full-stack project.
 
-You'll build an API on the back-end using Fast secured with JWTs. That API will interact with a PostgreSQL database to carry out full CRUD on resources.
+You'll build an API on the back-end using FastAPI or Express secured with JWTs. That API will interact with a MongoDB/PostgreSQL database to carry out full CRUD on resources.
 
 On the front-end, you'll construct a React application that uses AJAX to communicate with the back-end app.
 
@@ -20,12 +20,12 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your group's project must fulfill the below requirements.
 
-- The back-end application is built with Fast.
+- The back-end application is built with Express/Node, or FastAPI.
 - The front-end application is built with React.
-- PostgreSQL is used as the database management system.
+- MongoDB or PostgreSQL is used as the database management system.
 - The back-end and front-end applications implement JWT token-based authentication to sign up, sign in, and sign out users.
 - Authorization is implemented across the front-end and back-end. Guest users (those not signed in) should not be able to create, update, or delete data in the application or access functionality allowing those actions.
-- The project has at least one data entity in addition to the User model. At least one entity must have a relationship with the User model.
+- The project has at least two data entities in addition to the User model, **with one additional entity for each additional group member**. At least one entity must have a relationship with the User model.
 - The project has full CRUD functionality on both the back-end and front-end.
 - The front-end application does not hold any secret keys. Public APIs that require secret keys must be accessed from the back-end application.
 - The project is deployed online so that the rest of the world can use it.
