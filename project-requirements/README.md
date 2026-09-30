@@ -1,10 +1,10 @@
-# ![Flask/React CRUD App Group Project - Project Requirements](./assets/hero.png)
+# ![Fast/React CRUD App Group Project - Project Requirements](./assets/hero.png)
 
 ## Overview
 
 For this project, you'll work across the back-end and the front-end to build a full-stack project.
 
-You'll build an API on the back-end using Flask secured with JWTs. That API will interact with a PostgreSQL database to carry out full CRUD on resources.
+You'll build an API on the back-end using Fast secured with JWTs. That API will interact with a PostgreSQL database to carry out full CRUD on resources.
 
 On the front-end, you'll construct a React application that uses AJAX to communicate with the back-end app.
 
@@ -20,7 +20,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your group's project must fulfill the below requirements.
 
-- The back-end application is built with Flask.
+- The back-end application is built with Fast.
 - The front-end application is built with React.
 - PostgreSQL is used as the database management system.
 - The back-end and front-end applications implement JWT token-based authentication to sign up, sign in, and sign out users.
@@ -60,7 +60,7 @@ A printable version of the project requirements can be found [here](./assets/pro
 > ✅ Any items marked incomplete in this section will require you to use your one redo to re-submit them. Your group's interactions with Git and GitHub must fulfill the below requirements.
 
 - You and your team members are shown as the only contributors to the project on GitHub.
-- The GitHub repositories used for the project must be named appropriately. For example, names like book-binder-back-end or wellness-tracker-front-end are appropriate, whereas ga-project or flask-react-project are not. The repos must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure they are public.***
+- The GitHub repositories used for the project must be named appropriately. For example, names like book-binder-back-end or wellness-tracker-front-end are appropriate, whereas ga-project or Fast-react-project are not. The repos must be publicly accessible. ***Be sure to create the repos on your personal GitHub account and ensure they are public.***
 - **Your repos should have commits that date back to the very beginning of the project**. If your group starts over with a new repo, do not delete the old one.
 
 ## README requirements
