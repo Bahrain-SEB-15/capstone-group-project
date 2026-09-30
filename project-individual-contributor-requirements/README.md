@@ -1,4 +1,4 @@
-# ![Flask/React CRUD App Group Project - Group Project Individual Contributor Requirements](./assets/hero.png)
+# ![Fast/React CRUD App Group Project - Group Project Individual Contributor Requirements](./assets/hero.png)
 
 ## Individual contributor requirements
 
