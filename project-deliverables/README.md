@@ -1,5 +1,4 @@
-# ![Flask/React CRUD App Group Project - Project Deliverables](./assets/hero.png)
-
+# FastAPI/React CRUD App Group Project - Project Deliverables
 ## Contents
 
 **Deliverable details**:
@@ -56,10 +55,6 @@ After your project proposal has been approved, your team will need to designate 
 
 During project week, your team will deploy the project so that others are able to use it on the internet! The back-end and front-end applications will be deployed separately.
 
-Follow the [Flask Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/flask-deployment/) to deploy your back-end Flask application.
-
-Follow the [React Front-End Deployment guide](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources/deployment/react-front-end-deployment/) to deploy your front-end React application.
-
 ## Submitting your deliverables
 
 Follow the guidelines below to submit your team's deliverables for this project.
@@ -76,7 +71,7 @@ Replacing `<link>` (including the `<` and `>`) with a link to your project plann
 
 ### Submitting your GitHub repo links
 
-Your team will submit a single link to the main ***public*** GitHub repos that you are using for the front-end and back-end of your Flask/React CRUD App Group Project below in the following format:
+Your team will submit a single link to the main ***public*** GitHub repos that you are using for the front-end and back-end of your FastAPI/React CRUD App Group Project below in the following format:
 
 ```plaintext
 Front-end GitHub repo link: <link>
