@@ -1,5 +1,4 @@
-# ![Flask/React CRUD App Group Project - Project GitHub Repo Links Deliverable](./assets/hero.png)
-
+# FastAPI/React CRUD App Group Project - Project GitHub Repo Links Deliverable
 ## Contents
 
 **Deliverable details**:
