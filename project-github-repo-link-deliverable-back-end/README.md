@@ -1,4 +1,4 @@
-# ![Flask/React CRUD App Group Project - Project GitHub Repo Link Deliverable - Back-end](./assets/hero.png)
+# FastAPI/React CRUD App Group Project - Project GitHub Repo Link Deliverable - Back-end
 
 ## Introduction
 
@@ -8,4 +8,4 @@ After your project proposal has been approved, your team will need to designate 
 
 ## Submitting your GitHub repo link
 
-Your team will submit a single link to the main ***public*** GitHub repo that you are using for the back-end of your Flask/React CRUD App Group Project below.
+Your team will submit a single link to the main ***public*** GitHub repo that you are using for the back-end of your FastAPI/React CRUD App Group Project below.
