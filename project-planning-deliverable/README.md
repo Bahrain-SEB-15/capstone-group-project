@@ -1,4 +1,4 @@
-# ![Flask/React CRUD App Group Project - Project Planning Deliverable](./assets/hero.png)
+# FastAPI/React CRUD App Group Project - Project Planning Deliverable
 
 ## Introduction
 
